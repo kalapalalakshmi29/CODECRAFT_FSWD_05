@@ -16,7 +16,7 @@ A vibrant Flutter social media application with a beautiful coral color theme de
 ### Optional Features
 - ✅ Follow/unfollow users
 - ✅ Notifications for likes and comments
-- ✅ Explore trending tags and suggested users
+- ✅ Explore trending tags and users to follow
 - ✅ User feed with chronological posts
 
 ## Design Theme
